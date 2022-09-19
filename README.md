@@ -17,7 +17,7 @@ Als organisatorischen Rahmen für das Projekt nutzen wir GitHub Classroom. Inhal
 
 1. Repository clonen.
 2. Terminal öffnen und **cd** in das Repository Directory.
-3. Ausführen folgende command um npm Packages zu installieren  :
+3. Ausführen folgende command um **npm** Packages zu installieren  :
 
 ```bash
 $ npm install
