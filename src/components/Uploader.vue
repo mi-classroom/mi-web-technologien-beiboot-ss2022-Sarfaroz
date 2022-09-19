@@ -13,7 +13,7 @@ export default {
         (e) => {
           try {
             const data = JSON.parse(e.target.result);
-            emit("load", data.items[0].images.overall.images);
+            emit("load", data.items);
           } catch (err) {
             error.value = "JSON-Parsing error";
           }

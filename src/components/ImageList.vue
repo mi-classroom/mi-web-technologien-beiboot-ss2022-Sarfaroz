@@ -17,8 +17,8 @@ export default {
 
 <template>
   <div class="ImageList">
-    <div v-for="item in sortedImages" :key="item.id" class="ImageList__item">
-      <img :src="item.sizes.medium.src" />
+    <div v-for="item in sortedImages" :key="item.metadata.imgSrc" class="ImageList__item">
+      <img :src="item.images.overall.images.sizes.medium.src" />
       <div>{{ item.metadata.title }}</div>
       <div>{{ item.metadata.date }}</div>
       <div>{{ item.repository }}</div>
