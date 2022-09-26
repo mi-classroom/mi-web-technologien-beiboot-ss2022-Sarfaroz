@@ -53,4 +53,4 @@ Um die Anwendung in einem Container auszuführen, muss man die folgenden Befehle
 
 ## Dokumentation
 
-Die wichtigsten Entscheidungen des Projekts wurden in Form von [Architectural Decision Records (ADRs) festgehalten .
+Die wichtigsten Entscheidungen des Projekts wurden in Form von [Architectural Decision Records (ADRs) festgehalten
