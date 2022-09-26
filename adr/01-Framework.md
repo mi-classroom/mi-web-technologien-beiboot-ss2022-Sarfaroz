@@ -2,8 +2,6 @@
 
 Es muss eine Entscheidung für ein Frontend-Framework getroffen werden.
 
-- Es wird Vuejs verwendet.
-
 - Die Verwendung eines JS-Frameworks hat mehrere Vorteile, daher ist es sinnvoll, es von Anfang an zu integrieren.
 
 Die Wahl fiel auf Vue und React

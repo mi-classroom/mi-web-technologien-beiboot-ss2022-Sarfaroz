@@ -1,8 +1,12 @@
 ### 3D Framework
-
+ - Status: 
+ 
+ In Process...
 
 ## Anforderung
 Die Anwendung sollte in der Lage sein, die Gemälde in einem dreidimensionalen Raum anzuzeigen. Es sollte möglich sein, sich mit w/s/a/d durch diesen Raum zu bewegen. Außerdem sollten alle Arbeiten aus demselben Jahr in derselben Reihe präsentiert werden und es sollte klar sein, aus welchem Jahr sie stammen. Außerdem sollten für jedes Bild die Beziehungen zu anderen Bildern angezeigt werden.
+
+- Lösung
 
 Es wird das Framework ThreeJS gewählt
 
